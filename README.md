@@ -33,11 +33,11 @@ node zcli-cjs.js
 
 <div align="center">
   
-<img src="./images/1.png" width="300" alt="Gambar 1" />
+<img src="./images/IMG_20260523_074727.jpg.png" width="300" alt="Gambar 1" />
 &nbsp;&nbsp;&nbsp;
-<img src="./images/2.png" width="300" alt="Gambar 2" />
+<img src="./images/IMG_20260523_075020.jpg.png" width="300" alt="Gambar 2" />
 &nbsp;&nbsp;&nbsp;
-<img src="./images/3.png" width="300" alt="Gambar 3" />
+<img src="./images/IMG_20260523_074816.jpg.png" width="300" alt="Gambar 3" />
 
 **Image 1** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 2** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 3**
 
