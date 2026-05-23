@@ -28,3 +28,17 @@ open the folder according to the desired language, for example:
 cd Javascript 
 node zcli-cjs.js
 ```
+
+## Screenshots
+
+<div align="center">
+  
+<img src="./images/1.png" width="300" alt="Gambar 1" />
+&nbsp;&nbsp;&nbsp;
+<img src="./images/2.png" width="300" alt="Gambar 2" />
+&nbsp;&nbsp;&nbsp;
+<img src="./images/3.png" width="300" alt="Gambar 3" />
+
+**Image 1** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 2** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 3**
+
+</div>
