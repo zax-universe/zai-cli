@@ -29,16 +29,28 @@ cd Javascript
 node zcli-cjs.js
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 <div align="center">
   
-<img src="./images/IMG_20260523_074727.jpg.png" width="300" alt="Gambar 1" />
-&nbsp;&nbsp;&nbsp;
-<img src="./images/IMG_20260523_075020.jpg.png" width="300" alt="Gambar 2" />
-&nbsp;&nbsp;&nbsp;
-<img src="./images/IMG_20260523_074816.jpg.png" width="300" alt="Gambar 3" />
-
-**Image 1** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 2** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image 3**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/zax-universe/zai-cli/refs/heads/main/images/IMG_20260523_074727.jpg" width="300" alt="Gambar 1"/>
+      <br/>
+      <b>Gambar 1</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/zax-universe/zai-cli/refs/heads/main/images/IMG_20260523_074816.jpg" width="300" alt="Gambar 2"/>
+      <br/>
+      <b>Gambar 2</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/zax-universe/zai-cli/refs/heads/main/images/IMG_20260523_075020.jpg" width="300" alt="Gambar 3"/>
+      <br/>
+      <b>Gambar 3</b>
+    </td>
+  </tr>
+</table>
 
 </div>
